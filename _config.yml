@@ -23,18 +23,16 @@ title: Code Better                          # the main title
 tagline: In search for the meaning   # it will display as the sub-title
 
 description: >-                        # used by seo meta and the atom feed
-  A minimal, portfolio, sidebar,
-  bootstrap Jekyll theme with responsive web design
-  and focuses on text presentation.
+  Keep dreaming big and keep training hard.
 
 # fill in the protocol & hostname for your site, e.g., 'https://username.github.io'
-url: 'https://ehsankorhani.github.io'
+url: 'https://ehsankorhani.com'
 
 github:
   username: ehsankorhani             # change to your github username
 
 twitter:
-  username: twitter_username            # change to your twitter username
+  # username: twitter_username            # change to your twitter username
 
 social:
   # Change to your full name.
@@ -55,7 +53,7 @@ google_site_verification: google_meta_tag_verification # change to your verifica
 
 
 google_analytics:
-  id: ''              # fill in your Google Analytics ID
+  id: 'UA-120639223-1'              # fill in your Google Analytics ID
   # Google Analytics pageviews report settings
   pv:
     proxy_endpoint:   # fill in the Google Analytics superProxy endpoint of Google App Engine
